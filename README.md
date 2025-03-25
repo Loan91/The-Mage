@@ -5,4 +5,6 @@ ZQSD to move
 
 Left click to attack
 
-E to throw a bomb
+E take the checkpoint
+
+Space to throw bombs
